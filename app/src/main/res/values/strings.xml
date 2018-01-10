@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="memo">
+        <item>りんご</item>
+        <item>発泡酒</item>
+        <item>チーズ</item>
+        <item>豆腐</item>
+        <item>マヨネーズ</item>
+        <item>サラミ</item>
+        <item>さきいか</item>
+        <item>赤貝の缶詰</item>
+        <item>味付けカワハギ</item>
+        <item>冷凍シメサバ</item>
+        <item>冷凍一口餃子</item>
+        <item>チーズかまぼこ</item>
+        <item>柿の種わさび</item>
+        <item>CRATZ</item>
+        <item>ベビースターラーメン</item>
+        <item>カラムーチョ</item>
+        <item>ビーノ</item>
+    </string-array>
+    <string-array name="cal">
+        <item>2018/01/01</item>
+        <item>2018/01/02</item>
+        <item>2018/02/03</item>
+        <item>2018/02/04</item>
+        <item>2018/03/05</item>
+        <item>2018/03/06</item>
+        <item>2018/04/07</item>
+        <item>2018/04/09</item>
+        <item>2018/05/11</item>
+        <item>2018/05/13</item>
+        <item>2018/06/15</item>
+        <item>2018/06/17</item>
+        <item>2018/07/19</item>
+        <item>2018/07/22</item>
+        <item>2018/08/25</item>
+        <item>2018/10/27</item>
+        <item>2018/12/30</item>
+    </string-array>
+</resources>
